@@ -4,7 +4,7 @@
 
 ## 发布第一篇文章
 
-首篇文章草稿在 [`drafts/01-hello-world.md`](drafts/01-hello-world.md)。要让文章出现在首页，请到本仓库的 **Issues → New issue**：
+首篇文章草稿在 [`drafts/01-hello-world.md`](drafts/01-hello-world.md)。当前仓库尚未启用 Issues；请先在仓库 **Settings → General → Features** 中勾选 **Issues**。要让文章出现在首页，再到 **Issues → New issue**：
 
 1. 将草稿第一行 `# ` 后的文字作为 Issue 标题。
 2. 将第一行之后的内容复制到 Issue 正文（不要重复复制标题）。
