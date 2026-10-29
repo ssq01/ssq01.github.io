@@ -635,7 +635,7 @@ var gitblog = function(config) {
                 success: function(data) {
                     if (self.options.q == undefined || self.options.q == null) {
                         if (data.length == 0) {
-                            document.getElementById('issue-list').innerHTML = '这个人很勤快但这里什么都还没写~';
+                            document.getElementById('issue-list').innerHTML = '暂无文章，敬请期待。';
                             $('.footer').css('position', 'absolute');
                         } else {
                             issue.addItem(data);

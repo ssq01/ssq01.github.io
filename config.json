@@ -3,8 +3,8 @@
     "repo": "ssq01.github.io",
     "client_id": "Ov23liiqmyF2ywnz0JGB",
     "client_secret": "5f9defb8ec1d9a594ea432c1699bb37ff2e6cb90",
-    "title": "Gitblog",
-    "instruction": "基于GitHub issue的个人博客模板",
+    "title": "ssq01 的博客",
+    "instruction": "ssq01's blogs",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "filter": {
         "creator": "all",
@@ -13,13 +13,11 @@
     "menu": {
         "首页":"./"
     },
-    "friends": {
-        "imuncle" : "https://imuncle.github.io"
-    },
+    "friends": {},
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "https://github.com/imuncle/gitblog",
+            "href" : "https://github.com/ssq01",
             "hidden_img" : null,
             "width" : 0
         }
